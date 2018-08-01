@@ -1,2 +1,5 @@
-# Bomber-Boy
-One totally original idea!
+# Bomber Boy
+
+## WIP
+
+*One totally original idea!*
